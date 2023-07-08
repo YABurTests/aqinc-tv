@@ -1815,8 +1815,8 @@
                 },
                 data() {
                     return {
-                        codeLength: 4,
-                        nameLength: 12,
+                        codeLength: 11,
+                        nameLength: 60,
                         passwordLength: 5,
                         isConnecting: !1,
                         code: "",
